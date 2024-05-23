@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Azure Data Engineer",
+        "count": 1
+    },
+    {
+        "title": "Staff Data Analyst",
+        "count": 2
+    },
+    {
+        "title": "Staff Data Scientist",
+        "count": 1
+    },
+    {
+        "title": "Data Analyst",
+        "count": 6
+    },
+    {
+        "title": "Managing Director Data Science",
+        "count": 1
+    },
+    {
+        "title": "Sales Data Analyst",
+        "count": 1
+    },
+    {
+        "title": "Business Data Analyst",
+        "count": 3
+    },
+    {
+        "title": "Data Scientist",
+        "count": 21
+    },
+    {
+        "title": "Machine Learning Manager",
+        "count": 1
+    },
+    {
+        "title": "Data Engineer",
+        "count": 13
+    },
+    {
+        "title": "Product Data Analyst",
+        "count": 1
+    },
+    {
+        "title": "Big Data Engineer",
+        "count": 3
+    },
+    {
+        "title": "Research Scientist",
+        "count": 2
+    },
+    {
+        "title": "Data Science Consultant",
+        "count": 1
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "count": 4
+    },
+    {
+        "title": "Machine Learning Infrastructure Engineer",
+        "count": 1
+    },
+    {
+        "title": "ML Engineer",
+        "count": 1
+    },
+    {
+        "title": "Lead Data Scientist",
+        "count": 2
+    },
+    {
+        "title": "Machine Learning Scientist",
+        "count": 1
+    },
+    {
+        "title": "Lead Data Engineer",
+        "count": 2
+    },
+    {
+        "title": "Lead Data Analyst",
+        "count": 1
+    },
+    {
+        "title": "BI Data Analyst",
+        "count": 1
+    },
+    {
+        "title": "Director of Data Science",
+        "count": 1
+    },
+    {
+        "title": "AI Scientist",
+        "count": 1
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "count": 1
+    },
+    {
+        "title": "Principal Data Scientist",
+        "count": 1
+    },
+    {
+        "title": "Data Science Manager",
+        "count": 1
+    }
+]

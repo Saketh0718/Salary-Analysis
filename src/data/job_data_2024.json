@@ -1,0 +1,422 @@
+[
+    {
+        "title": "Data Scientist",
+        "count": 1136
+    },
+    {
+        "title": "Data Science Manager",
+        "count": 24
+    },
+    {
+        "title": "Business Intelligence Engineer",
+        "count": 84
+    },
+    {
+        "title": "Data Architect",
+        "count": 184
+    },
+    {
+        "title": "Data Analyst",
+        "count": 864
+    },
+    {
+        "title": "Business Intelligence",
+        "count": 98
+    },
+    {
+        "title": "ML Engineer",
+        "count": 76
+    },
+    {
+        "title": "Data Modeler",
+        "count": 28
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "count": 607
+    },
+    {
+        "title": "Data Integration Specialist",
+        "count": 12
+    },
+    {
+        "title": "Research Scientist",
+        "count": 216
+    },
+    {
+        "title": "Data Engineer",
+        "count": 1066
+    },
+    {
+        "title": "Data Product Manager",
+        "count": 22
+    },
+    {
+        "title": "Data Manager",
+        "count": 68
+    },
+    {
+        "title": "Data Visualization Specialist",
+        "count": 4
+    },
+    {
+        "title": "Data Science",
+        "count": 233
+    },
+    {
+        "title": "Data Specialist",
+        "count": 38
+    },
+    {
+        "title": "Business Intelligence Lead",
+        "count": 10
+    },
+    {
+        "title": "Research Analyst",
+        "count": 66
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "count": 113
+    },
+    {
+        "title": "AI Engineer",
+        "count": 70
+    },
+    {
+        "title": "AI Software Engineer",
+        "count": 5
+    },
+    {
+        "title": "Machine Learning Scientist",
+        "count": 56
+    },
+    {
+        "title": "Data Science Engineer",
+        "count": 13
+    },
+    {
+        "title": "Applied Scientist",
+        "count": 135
+    },
+    {
+        "title": "Machine Learning Operations Engineer",
+        "count": 6
+    },
+    {
+        "title": "Analytics Engineer",
+        "count": 153
+    },
+    {
+        "title": "Data Management Analyst",
+        "count": 18
+    },
+    {
+        "title": "Encounter Data Management Professional",
+        "count": 8
+    },
+    {
+        "title": "Data Analytics Specialist",
+        "count": 6
+    },
+    {
+        "title": "Head of Data",
+        "count": 26
+    },
+    {
+        "title": "Data Analytics Lead",
+        "count": 17
+    },
+    {
+        "title": "Research Engineer",
+        "count": 134
+    },
+    {
+        "title": "AI Scientist",
+        "count": 4
+    },
+    {
+        "title": "Business Intelligence Developer",
+        "count": 36
+    },
+    {
+        "title": "Machine Learning Developer",
+        "count": 2
+    },
+    {
+        "title": "Data Management Specialist",
+        "count": 6
+    },
+    {
+        "title": "Data Infrastructure Engineer",
+        "count": 10
+    },
+    {
+        "title": "BI Developer",
+        "count": 32
+    },
+    {
+        "title": "Admin & Data Analyst",
+        "count": 2
+    },
+    {
+        "title": "Insight Analyst",
+        "count": 4
+    },
+    {
+        "title": "Consultant Data Engineer",
+        "count": 1
+    },
+    {
+        "title": "Business Intelligence Manager",
+        "count": 14
+    },
+    {
+        "title": "Manager Data Management",
+        "count": 1
+    },
+    {
+        "title": "Data Quality Manager",
+        "count": 4
+    },
+    {
+        "title": "Data Analytics Manager",
+        "count": 21
+    },
+    {
+        "title": "Robotics Engineer",
+        "count": 12
+    },
+    {
+        "title": "Business Intelligence Specialist",
+        "count": 2
+    },
+    {
+        "title": "Data Operations Analyst",
+        "count": 14
+    },
+    {
+        "title": "Director of Business Intelligence",
+        "count": 2
+    },
+    {
+        "title": "Data Product Owner",
+        "count": 4
+    },
+    {
+        "title": "Data Operations Manager",
+        "count": 2
+    },
+    {
+        "title": "AI Research Scientist",
+        "count": 3
+    },
+    {
+        "title": "Data Operations Specialist",
+        "count": 8
+    },
+    {
+        "title": "Bear Robotics",
+        "count": 2
+    },
+    {
+        "title": "Data Science Consultant",
+        "count": 32
+    },
+    {
+        "title": "Data Lead",
+        "count": 10
+    },
+    {
+        "title": "Data Operations Associate",
+        "count": 6
+    },
+    {
+        "title": "Lead Data Scientist",
+        "count": 1
+    },
+    {
+        "title": "MLOps Engineer",
+        "count": 10
+    },
+    {
+        "title": "Applied Research Scientist",
+        "count": 1
+    },
+    {
+        "title": "Prompt Engineer",
+        "count": 12
+    },
+    {
+        "title": "BI Analyst",
+        "count": 12
+    },
+    {
+        "title": "Data Integration Engineer",
+        "count": 16
+    },
+    {
+        "title": "Machine Learning Infrastructure Engineer",
+        "count": 2
+    },
+    {
+        "title": "Data Developer",
+        "count": 20
+    },
+    {
+        "title": "CRM Data Analyst",
+        "count": 1
+    },
+    {
+        "title": "ETL Developer",
+        "count": 8
+    },
+    {
+        "title": "AI Architect",
+        "count": 16
+    },
+    {
+        "title": "Cloud Database Engineer",
+        "count": 8
+    },
+    {
+        "title": "Data Science Analyst",
+        "count": 4
+    },
+    {
+        "title": "Data Science Practitioner",
+        "count": 6
+    },
+    {
+        "title": "BI Data Analyst",
+        "count": 2
+    },
+    {
+        "title": "Applied Data Scientist",
+        "count": 1
+    },
+    {
+        "title": "Data Quality Engineer",
+        "count": 2
+    },
+    {
+        "title": "Computational Biologist",
+        "count": 4
+    },
+    {
+        "title": "Big Data Engineer",
+        "count": 2
+    },
+    {
+        "title": "Data Analytics Associate",
+        "count": 1
+    },
+    {
+        "title": "Data Reporting Analyst",
+        "count": 2
+    },
+    {
+        "title": "Data Management Consultant",
+        "count": 2
+    },
+    {
+        "title": "Data Quality Analyst",
+        "count": 4
+    },
+    {
+        "title": "Robotics Software Engineer",
+        "count": 8
+    },
+    {
+        "title": "Machine Learning Researcher",
+        "count": 4
+    },
+    {
+        "title": "Data Science Director",
+        "count": 4
+    },
+    {
+        "title": "Data Strategist",
+        "count": 4
+    },
+    {
+        "title": "Big Data Developer",
+        "count": 1
+    },
+    {
+        "title": "Quantitative Research Analyst",
+        "count": 1
+    },
+    {
+        "title": "Lead Machine Learning Engineer",
+        "count": 1
+    },
+    {
+        "title": "Machine Learning Research Engineer",
+        "count": 1
+    },
+    {
+        "title": "Data Analytics Consultant",
+        "count": 6
+    },
+    {
+        "title": "AI Research Engineer",
+        "count": 2
+    },
+    {
+        "title": "AI Programmer",
+        "count": 1
+    },
+    {
+        "title": "ETL Engineer",
+        "count": 1
+    },
+    {
+        "title": "AI Product Manager",
+        "count": 2
+    },
+    {
+        "title": "AI Developer",
+        "count": 1
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "count": 4
+    },
+    {
+        "title": "Head of Machine Learning",
+        "count": 4
+    },
+    {
+        "title": "Data Analyst Lead",
+        "count": 1
+    },
+    {
+        "title": "Data Integration Developer",
+        "count": 4
+    },
+    {
+        "title": "ML Ops Engineer",
+        "count": 2
+    },
+    {
+        "title": "Data Pipeline Engineer",
+        "count": 2
+    },
+    {
+        "title": "Lead Data Analyst",
+        "count": 1
+    },
+    {
+        "title": "Data Science Lead",
+        "count": 2
+    },
+    {
+        "title": "Director of Data Science",
+        "count": 2
+    },
+    {
+        "title": "Managing Director Data Science",
+        "count": 1
+    }
+]
